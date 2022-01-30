@@ -87,5 +87,5 @@ To contact me, use one of the links below:
 [Email Me](mailto:isaac.petersen5@gmail.com)
 
 ## Credits
-
+Thank you to Joe Rehfuss for writing all the front end code for this project.
 Thank you to Sabrina Hanson for collaborating with me on this project. 
