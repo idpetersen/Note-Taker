@@ -36,8 +36,8 @@ body {
   font-size: 3rem;
 }
 
-.note-title:read-only,
-.note-textarea:read-only {
+.note-title:read-write,
+.note-textarea:read-write {
   color: #757575;
 }
 

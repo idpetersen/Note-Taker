@@ -9,11 +9,11 @@ const {
     v4: uuidv4
 } = require('uuid');
 const fs = require('fs');
-
+//Setting port to 3001 unless host assigns a different one
 const PORT = process.env.PORT || 3001;
 
 const app = express();
-
+//Middleware
 app.use(express.json());
 app.use(express.urlencoded({
     extended: true
